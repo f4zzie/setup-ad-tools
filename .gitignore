@@ -1,0 +1,18 @@
+# Installer output, virtual environments, and local credentials.
+AD/
+logs/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.log
+*.part.*
+*.bak
+
+# Downloaded binaries and archives do not belong in the source repository.
+*.exe
+*.dll
+*.zip
+*.tar.gz
